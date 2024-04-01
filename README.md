@@ -21,7 +21,7 @@ Redux를 사용하여 전화번호부를 만들어보는 프로젝트입니다.
 
 ### 3. 프로젝트 실행
 
-url: [https://phone-book-redux.netlify.app/](https://phone-book-redux.netlify.app/)
+url: [https://phonebook-redux-project.netlify.app/](https://phonebook-redux-project.netlify.app/)
 
 ### 4. 프로젝트 화면
 
